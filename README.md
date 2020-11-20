@@ -8,6 +8,9 @@
 2. [Clojure - from beginner to advanced](https://www.udemy.com/course/advancedclojure/) **(WIP: 65%)**
 3. [Clojure Course (RUS)](https://clojurecourse.by/)
 
+## Practice
+1. [Clojure Koans](http://clojurekoans.com/)
+
 ## Articles
 ## Books
 ## Youtube
