@@ -2,6 +2,9 @@
 
 **My list of interesting things connected with the Clojure language.**
 
+## Basics
+1. [Official Clojure website](https://clojure.org/)
+
 ## Courses
 
 1. [Clojure: The Complete Beginner's Guide](https://www.udemy.com/course/clojureprogramming/) **(Completed)**
