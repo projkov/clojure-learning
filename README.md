@@ -8,7 +8,7 @@
 ## Courses
 
 1. [Clojure: The Complete Beginner's Guide](https://www.udemy.com/course/clojureprogramming/) **(Completed)**
-2. [Clojure - from beginner to advanced](https://www.udemy.com/course/advancedclojure/) **(WIP: 65%)**
+2. [Clojure - from beginner to advanced](https://www.udemy.com/course/advancedclojure/) **(Completed)**
 3. [Clojure Course (RUS)](https://clojurecourse.by/)
 
 ## Practice
